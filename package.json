@@ -2,7 +2,7 @@
     "name": "dark-breeze-color-scheme",
     "displayName": "Dark Breeze Color Scheme",
     "description": "A Visual Studio Code theme with lots of blue",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "jasonliuuu",
     "engines": {
         "vscode": "^1.42.0"

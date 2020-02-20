@@ -15,3 +15,8 @@ Open the **extension marketplace** by clicking on the Extensions icon in the **A
 To activate the theme click on the gear icon in the *Activity Bar* and select *Color Theme*. Search for `Dark Breeze Color Scheme` and confirm the color theme change with `Enter`.
 
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gc3059m6nbj30np0akgme.jpg)
+
+## Extras
+
+* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)is the suggested icon theme
+* [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) with [starship prompt](https://starship.rs/) is the shell running.
