@@ -2,6 +2,9 @@
 
 
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/jasonliuuu.dark-breeze-color-scheme?color=%23494ca2&label=VS%20Marketplace&logo=Visual%20Studio&style=flat-square)](https://marketplace.visualstudio.com/items?itemName=jasonliuuu.dark-breeze-color-scheme&ssr=false#overview)
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/jasonliuuu.dark-breeze-color-scheme?style=flat-square&color=%23f39422)](https://marketplace.visualstudio.com/items?itemName=jasonliuuu.dark-breeze-color-scheme&ssr=false#overview)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/stars/jasonliuuu.dark-breeze-color-scheme.svg?style=flat-square&color=%23f7be16)](https://marketplace.visualstudio.com/items?itemName=jasonliuuu.dark-breeze-color-scheme&ssr=false#overview)
+
 
 ![](https://tva1.sinaimg.cn/large/0082zybpgy1gc2zxvmuskj30x90oxqad.jpg)
 
